@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1abd6ab0-2ce7-427f-9c7e-81ab31edf9eb" name="默认的" comment="" />
+    <list default="true" id="1abd6ab0-2ce7-427f-9c7e-81ab31edf9eb" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/src/another-module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +21,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1h0I7PbyZJBdjUY6O7VhzDg6fIT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599141414727</updated>
-      <workItem from="1599141415749" duration="2057000" />
+      <workItem from="1599141415749" duration="4195000" />
     </task>
     <servers />
   </component>
@@ -51,13 +63,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1805" y="597" width="230" height="281" key="Github.ShareDialog" timestamp="1599143454277">
+    <state x="1805" y="597" width="230" height="281" key="Github.ShareDialog" timestamp="1599143530052">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1805" y="597" width="230" height="281" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1599143454277" />
+    <state x="1805" y="597" width="230" height="281" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1599143530052" />
+    <state x="1756" y="397" key="Github.UntrackedFilesDialog" timestamp="1599143546732">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1756" y="397" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1599143546732" />
     <state x="1421" y="344" key="SettingsEditor" timestamp="1599143432154">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1421" y="344" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1599143432154" />
+    <state x="1583" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1599145884508">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1583" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1599145884508" />
   </component>
 </project>
